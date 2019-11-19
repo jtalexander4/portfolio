@@ -41,7 +41,7 @@ const Nav = styled.nav`
 `
 
 const activeLinkStyle = {
-  color: 'white',
+  background: 'white',
 }
 
 const Menu = () => {
